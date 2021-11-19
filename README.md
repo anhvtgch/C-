@@ -1,4 +1,4 @@
-# C-
+# C#
 learn in fpt
 using System;
 using System.Collections.Generic;
